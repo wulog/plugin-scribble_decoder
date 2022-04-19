@@ -1,0 +1,1 @@
+plugin-scribble_decoder
